@@ -1,3 +1,3 @@
-# Angular2_Seleton
+# Task Card
 
-This is a sample angular2 skeleton project that can be used to start off an angular2 project. 
+This is a sample angular2 app for tasks
