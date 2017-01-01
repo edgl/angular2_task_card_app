@@ -9,7 +9,7 @@ import { Task }      from './model/task';
 })
 
 export class AppComponent { 
-    private tasks:Task[] = [ ];
+    private tasks: Task[] = [ ];
     private currentTask = new Task(null, false);
 
     addTask() {
